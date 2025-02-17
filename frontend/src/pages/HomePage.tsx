@@ -1,6 +1,6 @@
 import { Col, Row } from 'react-bootstrap'
 import { sampleProducts } from '../data'
-import { getError } from '../create utils'
+import { getError } from '../utils'
 import { ApiError } from '../types/ApiError'
 import LoadingBox from '../components/LoadingBox'
 import MessageBox from '../components/MessageBox'
